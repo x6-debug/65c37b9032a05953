@@ -1,0 +1,5 @@
+Player URL:
+https://x6-debug.github.io/player/?list=https://raw.githubusercontent.com/x6-debug/65c37b9032a05953/refs/heads/master/github_master.m3u8
+
+Direct Playlist URL:
+https://raw.githubusercontent.com/x6-debug/65c37b9032a05953/refs/heads/master/github_master.m3u8
